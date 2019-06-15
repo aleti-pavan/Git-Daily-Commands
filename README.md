@@ -2,7 +2,6 @@ Git Commands for Daily Use:
 ==========================
 Here are the list of most used git commands.
 
-# Git-Daily-Commands
 
 ### Cloning & Creating Projects
 
